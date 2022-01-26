@@ -1,0 +1,18 @@
+https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+https://nodejs.org/en/download/
+https://yarnpkg.com/getting-started/install
+https://www.npmjs.com/package/create-react-app
+https://babeljs.io/repl
+
+
+Lesson 07:
+ReactJS, React App, React Components
+
+ReactJS:
+https://drive.google.com/file/d/17ccFzVtpw6r5e8KUajEsPLEm8WIqDANm/view?usp=sharing
+
+React App:
+https://drive.google.com/file/d/1CCmjC5v9UdDAYFi15Bk9qOuJZrYC-IAU/view?usp=sharing
+
+React Components:
+https://drive.google.com/file/d/1c1VAt8HmbrZyak-ZIp3o7UCPUQzKlATt/view?usp=sharing
